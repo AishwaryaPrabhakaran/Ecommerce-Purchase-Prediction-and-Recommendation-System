@@ -5,7 +5,7 @@ The system predicts **user purchase probability** and also generates **personali
 
 ---
 ## Architecture Diagram
-![Architecture Diagram](architecture_diagram.png)
+![Architecture Diagram](Architecture%20Diagram.jpg)
 
 ---
 
